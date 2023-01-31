@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    
+}
+
+.section-container {
+    margin-top: 70px;
+    width: 50%;
+    border: 1px solid black;
+    box-shadow: -1px -1px 10px  rgba(0, 0, 0, 0.158);
+    border: none;
+    border-radius: 8px;
+
+    background-color: rgba(240, 248, 255, 0.073);
+}
+
+
